@@ -1,0 +1,7 @@
+.menu .menu-items {
+    box-shadow: black 20px;
+    display: flex;
+}
+.menu .menu-item .menu-item-title {
+    position: absolute;
+}

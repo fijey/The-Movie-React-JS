@@ -1,0 +1,9 @@
+div.filter{
+    margin-top: 20px;
+    width: 100%;
+    display: flex;
+}
+
+.filter .filter-select {
+    flex: 1;
+}
